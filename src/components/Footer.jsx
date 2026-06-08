@@ -5,7 +5,7 @@ import nodeImage from '../assets/about/node.png';
 import mongoImage from '../assets/about/mongodb.png';
 import typescriptImage from '../assets/about/typescript.png';
 import javascriptImage from '../assets/about/javascript.png';
-import nextjsImage from '../assets/about/nextjs.png';
+import nextjsImage from '../assets/about/nextJS.png';
 import htmlImage from '../assets/about/html.png';
 import cssImage from '../assets/about/css.png';
 
