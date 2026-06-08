@@ -8,7 +8,7 @@ import mongoImage from '../assets/about/mongodb.png';
 import typescriptImage from '../assets/about/typescript.png';
 import nestJs from '../assets/about/nestjs.png';
 import javaScriptImage from '../assets/about/javascript.png';
-import nextjsimage from '../assets/about/nextjs.png';
+import nextjsimage from '../assets/about/nextJS.png';
 import htmlimage from '../assets/about/html.png'
 import cssImage from '../assets/about/css.png'
 import prismaImage from '../assets/about/prisma.png'
